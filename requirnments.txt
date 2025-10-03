@@ -1,0 +1,13 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-google
+livekit-plugins-silero
+livekit-plugins-cartesia
+livekit-plugins-deepgram
+livekit-plugins-turn_detector
+livekit-plugins-noise-cancellation
+mem0ai
+duckduckgo-search
+langchain_community
+requests
+python-dotenv
